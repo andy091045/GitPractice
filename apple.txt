@@ -1,5 +1,1 @@
-123
-second line
-321
-new branch
-at master
+000000
