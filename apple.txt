@@ -1,5 +1,5 @@
 123
 second line
-123
+321
 new branch
 at master
